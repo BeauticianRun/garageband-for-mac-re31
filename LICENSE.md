@@ -1,4 +1,4 @@
-# 
+# Enhance GarageBand for macOS with top GarageBand for macOS Preset | auto-color-grading + color-correction, the #1 preset. Includes auto-color-grading and color-correction for a
 
 
 
